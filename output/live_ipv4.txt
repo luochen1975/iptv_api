@@ -1,5 +1,5 @@
 更新日期,#genre#
-2025-11-21,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
+2025-11-23,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 🍎┃广东频道,#genre#
 广州综合,http://14.117.233.31:8688/rtp/239.253.43.71:5146$IPV4•线路1
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$IPV4•线路2
@@ -136,11 +136,11 @@ CCTV5,http://ygbh.site/php/bfgd.php?id=064$IPV4•线路13
 CCTV5,http://sh.lnott.top:880/dx05.m3u8$IPV4•线路14
 CCTV5,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv5.flv$IPV4•线路15
 CCTV5,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】$IPV4•线路16
-CCTV5+,http://58.57.40.22:9901/tsfile/live/1005_1.m3u8$IPV4•线路1
-CCTV5+,http://www.douzhicloud.site:35455/gaoma/cctv5p.m3u8$IPV4•线路2
-CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8$IPV4•线路3
-CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8$IPV4•线路4
-CCTV5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8$IPV4•线路5
+CCTV5+,http://www.douzhicloud.site:35455/gaoma/cctv5p.m3u8$IPV4•线路1
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8$IPV4•线路2
+CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8$IPV4•线路3
+CCTV5+,http://cssbyd.imwork.net:8082/hls/6/index.m3u8$IPV4•线路4
+CCTV5+,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8$IPV4•线路5
 CCTV5+,http://www.dsk.cc/php/bfgd.php?id=cctv5p&m.m3u8$IPV4•线路6
 CCTV5+,http://111.43.126.240:9003/hls/18/index.m3u8$IPV4•线路7
 CCTV5+,http://ygbh.site/php/bfgd.php?id=246$IPV4•线路8
@@ -203,11 +203,11 @@ CCTV9,http://14.117.233.31:8688/rtp/239.77.1.160:5146$IPV4•线路3
 CCTV9,http://14.117.233.31:8688/rtp/239.77.1.168:5146$IPV4•线路4
 CCTV9,http://171.213.234.216:8089/rtp/239.93.1.24:5140$IPV4•线路5
 CCTV9,http://183.160.35.31:4022/rtp/238.1.78.240:7792$IPV4•线路6
-CCTV9,http://58.57.40.22:9901/tsfile/live/1009_1.m3u8$IPV4•线路7
-CCTV9,http://183.11.239.36:808/hls/27/index.m3u8$IPV4•线路8
-CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8$IPV4•线路9
-CCTV9,http://112.46.85.60:8009/hls/509/index.m3u8$IPV4•线路10
-CCTV9,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8$IPV4•线路11
+CCTV9,http://39.164.160.249:9901/tsfile/live/0009_1.m3u8$IPV4•线路7
+CCTV9,http://58.57.40.22:9901/tsfile/live/1009_1.m3u8$IPV4•线路8
+CCTV9,http://183.11.239.36:808/hls/27/index.m3u8$IPV4•线路9
+CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8$IPV4•线路10
+CCTV9,http://112.46.85.60:8009/hls/509/index.m3u8$IPV4•线路11
 CCTV9,http://www.dsk.cc/php/bfgd.php?id=cctv9&m.m3u8$IPV4•线路12
 CCTV9,http://111.43.126.240:9003/hls/22/index.m3u8$IPV4•线路13
 CCTV9,http://ygbh.site/php/bfgd.php?id=128$IPV4•线路14
@@ -253,11 +253,11 @@ CCTV12,http://14.117.233.31:8688/rtp/239.77.1.10:5146$IPV4•线路4
 CCTV12,http://14.117.233.31:8688/rtp/239.77.1.170:5146$IPV4•线路5
 CCTV12,http://171.213.234.216:8089/rtp/239.93.1.30:8124$IPV4•线路6
 CCTV12,http://183.160.35.31:4022/rtp/238.1.78.242:7808$IPV4•线路7
-CCTV12,http://58.57.40.22:9901/tsfile/live/1012_1.m3u8$IPV4•线路8
-CCTV12,http://183.11.239.36:808/hls/30/index.m3u8$IPV4•线路9
-CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8$IPV4•线路10
-CCTV12,http://112.46.85.60:8009/hls/507/index.m3u8$IPV4•线路11
-CCTV12,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8$IPV4•线路12
+CCTV12,http://39.164.160.249:9901/tsfile/live/0012_1.m3u8$IPV4•线路8
+CCTV12,http://58.57.40.22:9901/tsfile/live/1012_1.m3u8$IPV4•线路9
+CCTV12,http://183.11.239.36:808/hls/30/index.m3u8$IPV4•线路10
+CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8$IPV4•线路11
+CCTV12,http://112.46.85.60:8009/hls/507/index.m3u8$IPV4•线路12
 CCTV12,http://www.dsk.cc/php/bfgd.php?id=cctv12&m.m3u8$IPV4•线路13
 CCTV12,http://111.43.126.240:9003/hls/25/index.m3u8$IPV4•线路14
 CCTV12,http://ygbh.site/php/bfgd.php?id=131$IPV4•线路15
@@ -302,9 +302,9 @@ CCTV15,http://14.117.233.31:8688/rtp/239.77.1.239:5146$IPV4•线路2
 CCTV15,http://183.160.35.31:4022/rtp/238.1.78.222:7648$IPV4•线路3
 CCTV15,http://58.57.40.22:9901/tsfile/live/1015_1.m3u8$IPV4•线路4
 CCTV15,http://gmxw.7766.org:808/hls/102/index.m3u8$IPV4•线路5
-CCTV15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8$IPV4•线路6
-CCTV15,http://183.11.239.36:808/hls/102/index.m3u8$IPV4•线路7
-CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8$IPV4•线路8
+CCTV15,http://183.11.239.36:808/hls/102/index.m3u8$IPV4•线路6
+CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8$IPV4•线路7
+CCTV15,http://222.169.85.8:9901/tsfile/live/0015_1.m3u8$IPV4•线路8
 CCTV15,http://www.dsk.cc/php/bfgd.php?id=cctv15&m.m3u8$IPV4•线路9
 CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8$IPV4•线路10
 CCTV15,http://ygbh.site/php/bfgd.php?id=133$IPV4•线路11
@@ -354,9 +354,9 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 浙江卫视,http://171.213.234.216:8089/rtp/239.93.0.124:5140$IPV4•线路6
 浙江卫视,http://183.160.35.31:4022/rtp/238.1.78.164:7184$IPV4•线路7
 浙江卫视,http://58.57.40.22:9901/tsfile/live/1029_1.m3u8$IPV4•线路8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$IPV4•线路9
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$IPV4•线路10
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$IPV4•线路11
+浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8$IPV4•线路9
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$IPV4•线路10
+浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$IPV4•线路11
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$IPV4•线路12
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$IPV4•线路13
 浙江卫视,http://ygbh.site/php/bfgd.php?id=094$IPV4•线路14
@@ -407,7 +407,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 江苏卫视,http://183.11.239.36:808/hls/38/index.m3u8$IPV4•线路9
 江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8$IPV4•线路10
 江苏卫视,http://112.46.85.60:8009/hls/33/index.m3u8$IPV4•线路11
-江苏卫视,http://182.150.23.74:808/hls/18/index.m3u8$IPV4•线路12
+江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8$IPV4•线路12
 江苏卫视,http://www.dsk.cc/jstv/jstv.php?id=jsws&m.m3u8$IPV4•线路13
 江苏卫视,http://ygbh.site/php/bfgd.php?id=085$IPV4•线路14
 江苏卫视,http://sh.lnott.top:880/dx33.m3u8$IPV4•线路15
@@ -439,9 +439,9 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 北京卫视,http://14.117.233.31:8688/rtp/239.77.1.151:5146$IPV4•线路3
 北京卫视,http://14.117.233.31:8688/rtp/239.77.1.4:5146$IPV4•线路4
 北京卫视,http://183.160.35.31:4022/rtp/238.1.78.162:7168$IPV4•线路5
-北京卫视,http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$IPV4•线路6
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$IPV4•线路7
-北京卫视,http://222.134.245.16:9901/tsfile/live/0122_1.m3u8$IPV4•线路8
+北京卫视,http://223.105.252.8/PLTV/4/224/3221228115/index.m3u8$IPV4•线路6
+北京卫视,http://58.57.40.22:9901/tsfile/live/1032_1.m3u8$IPV4•线路7
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$IPV4•线路8
 北京卫视,http://183.11.239.36:808/hls/41/index.m3u8$IPV4•线路9
 北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8$IPV4•线路10
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1760876105&sign=a477cc462a76be885dab5120dc9b2c47$IPV4•线路11
@@ -545,11 +545,11 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 广东卫视,http://14.117.233.31:8688/rtp/239.77.1.19:5146$IPV4•线路4
 广东卫视,http://171.213.234.216:8089/rtp/239.93.0.181:5140$IPV4•线路5
 广东卫视,http://183.160.35.31:4022/rtp/238.1.78.161:7160$IPV4•线路6
-广东卫视,http://58.57.40.22:9901/tsfile/live/1039_1.m3u8$IPV4•线路7
-广东卫视,http://120.238.94.10:9901/tsfile/live/1008_1.m3u8$IPV4•线路8
-广东卫视,http://183.11.239.36:808/hls/80/index.m3u8$IPV4•线路9
-广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8$IPV4•线路10
-广东卫视,http://61.156.228.12:8154/tsfile/live/0125_1.m3u8$IPV4•线路11
+广东卫视,http://223.105.252.8/PLTV/4/224/3221227445/index.m3u8$IPV4•线路7
+广东卫视,http://58.57.40.22:9901/tsfile/live/1039_1.m3u8$IPV4•线路8
+广东卫视,http://120.238.94.10:9901/tsfile/live/1008_1.m3u8$IPV4•线路9
+广东卫视,http://183.11.239.36:808/hls/80/index.m3u8$IPV4•线路10
+广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8$IPV4•线路11
 广东卫视,http://219.157.60.114:7001/rtp/225.1.4.166:1207$IPV4•线路12
 广东卫视,http://ygbh.site/php/bfgd.php?id=092$IPV4•线路13
 广东卫视,http://sh.lnott.top:880/dx40.m3u8$IPV4•线路14
@@ -611,11 +611,11 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 河北卫视,http://14.117.233.31:8688/rtp/239.77.1.214:5146$IPV4•线路3
 河北卫视,http://171.213.234.216:8089/rtp/239.93.0.132:5140$IPV4•线路4
 河北卫视,http://183.160.35.31:4022/rtp/238.1.78.245:7832$IPV4•线路5
-河北卫视,http://39.164.160.249:9901/tsfile/live/0117_1.m3u8$IPV4•线路6
-河北卫视,http://58.57.40.22:9901/tsfile/live/1044_1.m3u8$IPV4•线路7
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$IPV4•线路8
-河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8$IPV4•线路9
-河北卫视,http://111.61.236.247:9081/hls/17/index.m3u8$IPV4•线路10
+河北卫视,http://58.57.40.22:9901/tsfile/live/1044_1.m3u8$IPV4•线路6
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$IPV4•线路7
+河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8$IPV4•线路8
+河北卫视,http://111.61.236.247:9081/hls/17/index.m3u8$IPV4•线路9
+河北卫视,http://183.11.239.36:808/hls/54/index.m3u8$IPV4•线路10
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=fe44b6c42c2e7065c441a28de6f13955$IPV4•线路11
 河北卫视,http://ygbh.site/php/bfgd.php?id=108$IPV4•线路12
 河北卫视,http://sh.lnott.top:880/dx63.m3u8$IPV4•线路13
@@ -629,11 +629,11 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 河南卫视,http://14.117.233.31:8688/rtp/239.77.1.229:5146$IPV4•线路3
 河南卫视,http://171.213.234.216:8089/rtp/239.93.42.45:5140$IPV4•线路4
 河南卫视,http://183.160.35.31:4022/rtp/238.1.79.65:4632$IPV4•线路5
-河南卫视,http://39.164.160.249:9901/tsfile/live/0139_1.m3u8$IPV4•线路6
-河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8$IPV4•线路7
-河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8$IPV4•线路8
-河南卫视,http://120.238.94.10:9901/tsfile/live/1068_1.m3u8$IPV4•线路9
-河南卫视,http://cssbyd.imwork.net:8082/hls/37/index.m3u8$IPV4•线路10
+河南卫视,http://58.57.40.22:9901/tsfile/live/1048_1.m3u8$IPV4•线路6
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8$IPV4•线路7
+河南卫视,http://120.238.94.10:9901/tsfile/live/1068_1.m3u8$IPV4•线路8
+河南卫视,http://cssbyd.imwork.net:8082/hls/37/index.m3u8$IPV4•线路9
+河南卫视,http://183.11.239.36:808/hls/51/index.m3u8$IPV4•线路10
 河南卫视,http://219.157.60.114:7001/rtp/225.1.4.98:1127$IPV4•线路11
 河南卫视,http://ygbh.site/php/bfgd.php?id=339$IPV4•线路12
 河南卫视,http://ygbh.site/php/bfgd.php?id=104$IPV4•线路13
@@ -648,11 +648,11 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 黑龙江卫视,http://14.117.233.31:8688/rtp/239.77.1.6:5146$IPV4•线路5
 黑龙江卫视,http://171.213.234.216:8089/rtp/239.93.0.183:5140$IPV4•线路6
 黑龙江卫视,http://183.160.35.31:4022/rtp/238.1.78.159:7144$IPV4•线路7
-黑龙江卫视,http://39.164.160.249:9901/tsfile/live/0143_1.m3u8$IPV4•线路8
-黑龙江卫视,http://58.57.40.22:9901/tsfile/live/1040_1.m3u8$IPV4•线路9
-黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$IPV4•线路10
-黑龙江卫视,http://183.11.239.36:808/hls/48/index.m3u8$IPV4•线路11
-黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8$IPV4•线路12
+黑龙江卫视,http://58.57.40.22:9901/tsfile/live/1040_1.m3u8$IPV4•线路8
+黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$IPV4•线路9
+黑龙江卫视,http://183.11.239.36:808/hls/48/index.m3u8$IPV4•线路10
+黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8$IPV4•线路11
+黑龙江卫视,http://61.156.228.12:8154/tsfile/live/0143_1.m3u8$IPV4•线路12
 黑龙江卫视,http://219.157.60.114:7001/rtp/225.1.4.91:1120$IPV4•线路13
 黑龙江卫视,http://111.43.126.240:9003/hls/6/index.m3u8$IPV4•线路14
 黑龙江卫视,http://ygbh.site/php/bfgd.php?id=095$IPV4•线路15
@@ -683,11 +683,11 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 江西卫视,http://14.117.233.31:8688/rtp/239.77.1.219:5146$IPV4•线路3
 江西卫视,http://171.213.234.216:8089/rtp/239.93.0.134:5140$IPV4•线路4
 江西卫视,http://183.160.35.31:4022/rtp/238.1.78.26:6136$IPV4•线路5
-江西卫视,http://39.164.160.249:9901/tsfile/live/0138_1.m3u8$IPV4•线路6
-江西卫视,http://58.57.40.22:9901/tsfile/live/1043_1.m3u8$IPV4•线路7
-江西卫视,http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8$IPV4•线路8
-江西卫视,http://183.11.239.36:808/hls/44/index.m3u8$IPV4•线路9
-江西卫视,http://120.76.248.139/live/bfgd/4200000098.m3u8$IPV4•线路10
+江西卫视,http://58.57.40.22:9901/tsfile/live/1043_1.m3u8$IPV4•线路6
+江西卫视,http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8$IPV4•线路7
+江西卫视,http://183.11.239.36:808/hls/44/index.m3u8$IPV4•线路8
+江西卫视,http://120.76.248.139/live/bfgd/4200000098.m3u8$IPV4•线路9
+江西卫视,http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8$IPV4•线路10
 江西卫视,http://219.157.60.114:7001/rtp/225.1.4.139:1305$IPV4•线路11
 江西卫视,http://ygbh.site/php/bfgd.php?id=098$IPV4•线路12
 江西卫视,http://sh.lnott.top:880/dx43.m3u8$IPV4•线路13
@@ -714,9 +714,9 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 吉林卫视,http://111.43.126.240:9003/hls/45/index.m3u8$IPV4•线路16
 内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8$IPV4•线路1
 内蒙古卫视,http://111.61.236.247:9081/hls/48/index.m3u8$IPV4•线路2
-内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8$IPV4•线路3
-内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8$IPV4•线路4
-内蒙古卫视,http://182.150.23.74:808/hls/37/index.m3u8$IPV4•线路5
+内蒙古卫视,http://222.134.245.16:9901/tsfile/live/0109_1.m3u8$IPV4•线路3
+内蒙古卫视,http://183.11.239.36:808/hls/60/index.m3u8$IPV4•线路4
+内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8$IPV4•线路5
 内蒙古卫视,http://219.157.60.114:7001/rtp/225.1.4.45:1074$IPV4•线路6
 内蒙古卫视,http://111.43.126.240:9003/hls/63/index.m3u8$IPV4•线路7
 内蒙古卫视,http://ygbh.site/php/bfgd.php?id=110$IPV4•线路8
@@ -754,8 +754,8 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 青海卫视,http://58.57.40.22:9901/tsfile/live/1057_1.m3u8$IPV4•线路2
 青海卫视,http://120.238.94.10:9901/tsfile/live/1073_1.m3u8$IPV4•线路3
 青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8$IPV4•线路4
-青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8$IPV4•线路5
-青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive$IPV4•线路6
+青海卫视,http://123.130.84.106:8154/tsfile/live/0140_1.m3u8$IPV4•线路5
+青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8$IPV4•线路6
 青海卫视,http://219.157.60.114:7001/rtp/225.1.4.44:1073$IPV4•线路7
 青海卫视,http://111.43.126.240:9003/hls/59/index.m3u8$IPV4•线路8
 青海卫视,http://ygbh.site/php/bfgd.php?id=111$IPV4•线路9
@@ -772,7 +772,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 天津卫视,http://183.11.239.36:808/hls/42/index.m3u8$IPV4•线路7
 天津卫视,http://112.46.85.60:8009/hls/44/index.m3u8$IPV4•线路8
 天津卫视,http://182.150.23.74:808/hls/27/index.m3u8$IPV4•线路9
-天津卫视,http://222.169.85.8:9901/tsfile/live/0135_1.m3u8$IPV4•线路10
+天津卫视,http://123.130.84.106:8154/tsfile/live/0135_1.m3u8$IPV4•线路10
 天津卫视,http://219.157.60.114:7001/rtp/225.1.4.86:1115$IPV4•线路11
 天津卫视,http://ygbh.site/php/bfgd.php?id=084$IPV4•线路12
 天津卫视,http://sh.lnott.top:880/dx30.m3u8$IPV4•线路13
@@ -942,9 +942,11 @@ Now星影台,http://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv$IPV
 SUPER Kids Channel,https://live.tvfix.org/live/kid/index.m3u8$IPV4
 AXN电影台,http://tl.061833.xyz/tl/axn$IPV4
 RTHK 31,http://beishan008.asuscomm.com:8892/bysid/31.m3u8$IPV4
-RTHK 32,http://vallest.uk/livehttpplay?channel_id=30067$IPV4
+RTHK 32,http://beishan008.asuscomm.com:8892/bysid/32.m3u8$IPV4
 RTHK 33,http://beishan008.asuscomm.com:8892/bysid/33.m3u8$IPV4
 RTHK 34,http://beishan008.asuscomm.com:8892/bysid/34.m3u8$IPV4
+RTHK 35,http://rihou.cc:8/RTHK-35$IPV4
+RTHK 36,http://rihou.cc:8/RTHK-36$IPV4
 中天亞洲台,https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8$IPV4
 中天新聞台,http://ali.hlspull.yximgs.com/live/167_ztxw.flv$IPV4•线路1
 中天新聞台,http://ali.hlspull.yximgs.com/live/167ztxw2.flv$IPV4•线路2
@@ -1094,9 +1096,11 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$IPV4•线
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$IPV4•线路1
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8$IPV4•线路2
 纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40$IPV4
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$IPV4
-靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058$IPV4
-艾尔达娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8$IPV4•线路1
-艾尔达娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild$IPV4•线路2
-艾尔达娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8$IPV4•线路3
+靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055$IPV4•线路1
+靖天映画,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89$IPV4•线路2
+靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058$IPV4•线路1
+靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89$IPV4•线路2
+艾尔达娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8$IPV4•线路1
+艾尔达娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8$IPV4•线路2
+艾尔达娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild$IPV4•线路3
 
